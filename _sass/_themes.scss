@@ -155,3 +155,13 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+.header-background .img {
+  background-image: url("../img/CrAIC-DPJC-logo.png");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  background-position: center bottom;
+  height: 12em;
+  margin-bottom: 0em;
+  margin-top: -2.7em;
+  // filter: invert(89%);
+}

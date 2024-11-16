@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: CrAIC DPJC # the website title (if blank, full name will be used instead)
+title: CrAIC Digital Pathology Journal Club # the website title (if blank, full name will be used instead)
 first_name: a
 middle_name: b
 last_name: c
@@ -171,7 +171,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
+#external_sources:
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
 #  - name: Google Blog

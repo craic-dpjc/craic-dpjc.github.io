@@ -9,8 +9,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #a63d9a;
-  --global-hover-color: #a63d9a;
+  --global-theme-color: #d2a2c7;
+  --global-hover-color: #d2a2c7;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -125,8 +125,8 @@ html[data-theme="dark"] {
   background-size: 400px;
   background-position: center bottom;
   height: 10em;
-  margin-bottom: -2em;
-  margin-top: 2em;
+  margin-bottom: 0em;
+  margin-top: 0em;
   // filter: invert(89%);
 }
 

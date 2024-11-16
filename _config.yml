@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: digital pathology, artificial intelligence, machine learning, oncology, crick # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/CrAIC-DPJC-logo-no-text.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: CrAIC-DPJC-logo-no-text.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://craic-dpjc.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

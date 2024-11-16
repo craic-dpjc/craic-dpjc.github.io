@@ -16,5 +16,5 @@ research at the intersection of artificial intelligence and digital pathology.
 ## Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Matouš Elphick" affiliation="The Francis Crick Institute" url="https://matouse.github.io" img="assets/img/matous.jpg" %}
+  {% include people_horizontal.liquid name="Matouš Elphick" affiliation="The Francis Crick Institute" url="https://matouse.github.io" img="assets/img/matous.jpg" %}
 </div>

@@ -8,10 +8,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<div class="links">
-<a href="https://arxiv.org/}" class="btn btn-sm z-depth-0" role="button">Test</a>
-<a href="https://www.youtube.com/@CrAIC-DPJC}" class="btn btn-sm z-depth-0" role="button">YouTube</a>
-
+<div class="tag-category-list">
+<ul class="p-0 m-0">
+    <li>
+      <i class="fa-solid fa-hashtag fa-sm"></i> <a href="https://www.youtube.com/@CrAIC-DPJC">YouTube</a>
+    </li>
+    <li>
+      <i class="fa-solid fa-hashtag fa-sm"></i> <a href="https://groups.google.com/g/craic_dpjc">Join Mailing List</a>
+    </li>
+</ul>
 </div>
 
 ## About us

@@ -13,11 +13,18 @@ social: false # includes social icons at the bottom of the page
     <li>
       <i class="fa-solid fa-hashtag fa-sm"></i> <a href="https://www.youtube.com/@CrAIC-DPJC">YouTube</a>
     </li>
+    <p>&bull;</p>
     <li>
       <i class="fa-solid fa-hashtag fa-sm"></i> <a href="https://groups.google.com/g/craic_dpjc">Join Mailing List</a>
     </li>
+    <p>&bull;</p>
+    <li>
+      <i class="fa-solid fa-hashtag fa-sm"></i> <a href="https://calendar.google.com/calendar/u/0?cid=NTkxMzBkZDRkOTJkY2EzN2FlY2E0MGRhMzdhMDFiYWM1MmJiOTVmMWZmYjdiOGZhYmIwNTBlMTFkMGI0MWIzMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+    ">Add to Calender</a>
+    </li>
 </ul>
 </div>
+
 
 ## About us
 The CrAIC Digital Pathology Journal Club (CrAIC-DPJC) is a platform for researchers to discuss and explore the latest 

@@ -8,6 +8,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<div class="post">
 <div class="tag-category-list">
 <ul class="p-0 m-0">
     <li>
@@ -24,7 +25,8 @@ social: false # includes social icons at the bottom of the page
     </li>
 </ul>
 </div>
-
+<br>
+</div>
 
 ## About us
 The CrAIC Digital Pathology Journal Club (CrAIC-DPJC) is a platform for researchers to discuss and explore the latest 

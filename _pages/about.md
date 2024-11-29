@@ -37,6 +37,10 @@ platform for researchers to discuss and explore the latest research. We welcome 
 whether you're new to digital pathology or an expert in AI. If you are interested in presenting your paper 
 or research drop us an email [here](matous.elphick@crick.ac.uk).
 
+## Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=59130dd4d92dca37aeca40da37a01bac52bb95f1ffb7b8fabb050e11d0b41b32%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.liquid name="Matouš Elphick" affiliation="The Francis Crick Institute" url="https://matouse.github.io" img="assets/img/matous.jpg" %}

@@ -22,6 +22,9 @@ social: false # includes social icons at the bottom of the page
       <i class="fa-solid fa-hashtag fa-sm"></i> <a href="https://calendar.google.com/calendar/u/0?cid=NTkxMzBkZDRkOTJkY2EzN2FlY2E0MGRhMzdhMDFiYWM1MmJiOTVmMWZmYjdiOGZhYmIwNTBlMTFkMGI0MWIzMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
     ">Add to Calendar</a>
     </li>
+    <li>
+      <i class="fa-solid fa-hashtag fa-sm"></i> <a href="https://crick.zoom.us/j/62801484364?pwd=nUP0drAfhMJNILcZJkGeSpr5DObAKU.1">Join on Zoom</a>
+    </li>
 </ul>
 </div>
 <br>

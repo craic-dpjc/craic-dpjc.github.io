@@ -2,7 +2,7 @@
 layout: page
 permalink: /meetings/
 title: meetings
-description: A list of previous DPJC meetings.
+description: A list of DPJC meetings.
 nav: true
 nav_order: 2
 ---
